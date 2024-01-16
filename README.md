@@ -37,7 +37,7 @@ It is necessary to obtain customized hardware, you need to check the values on d
 Join our discord to stay up to date with our project and answer any questions.
 <div>
     <a href="https://discord.gg/Z34hwhSPBk" style="text-decoration: none; color: white; background-color: #5865F2; padding: 10px 15px; border-radius: 5px; display: inline-flex; align-items: center;">
-        <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" style="height: 20px; margin-right: 10px;">
+        <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" style="height: 15px; margin-right: 10px;">
         Discord
     </a>
 </div>
