@@ -11,8 +11,8 @@ Created for **educational purposes**.
 
 ```
 ├── Instalock ✅
-├── Triggerbot 🫃
-└── Aimbot 🫃
+├── Triggerbot ⏲️
+└── Aimbot ⏲️
 ```
 
 ## Antares Private
