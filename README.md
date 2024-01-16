@@ -35,5 +35,7 @@ It is necessary to obtain customized hardware, you need to check the values on d
 ## Getting Started
 
 Join our discord to stay up to date with our project and answer any questions.
-[![Discord Button](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.gg/Z34hwhSPBk)
+<a href="https://discord.gg/Z34hwhSPBk">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord Button" width="100" heigth="30">
+</a>
 We are open to receiving suggestions that contribute to improving our project. Show your support for our work by giving a star ⭐️ on GitHub, which will significantly help us advance development.
