@@ -6,7 +6,7 @@ Created for **educational purposes**.
 ## Antares Instalock
 Download Free -> [Discord](https://discord.gg/Z34hwhSPBk) <-
 <p align="center">
-  <img src="https://github.com/aidsplus/Antares/blob/main/instalock.png?raw=true" width=450px >
+  <img src="https://github.com/aidsplus/Antares/blob/main/instalock.jpg?raw=true" width=450px >
 </p>
 
 ## Antares Free
