@@ -20,7 +20,7 @@ Antares Free is a project with one of the best features available, having a soph
 Antares Private is a project with one of the best features available, having a sophisticated menu with several configuration options to improve your aim. 
 It is necessary to obtain customized hardware, you need to check the values on discord. 
 *Has better security*
--> [Youtube](https://youtu.be/KKLIsCqtyRU)
+-> [Youtube](https://youtu.be/KKLIsCqtyRU) <-
 
 ```
 ├── Aimbot
