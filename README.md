@@ -2,6 +2,7 @@
 
 Your best experience! 
 Created for **educational purposes**.
+Download -> [Discord](https://discord.gg/Z34hwhSPBk) <-
 
 
 ## Antares Free
